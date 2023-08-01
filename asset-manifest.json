@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/MicoHospital/static/css/main.406f71d0.css",
+    "main.js": "/MicoHospital/static/js/main.1fa1be9b.js",
+    "static/js/787.9d249d42.chunk.js": "/MicoHospital/static/js/787.9d249d42.chunk.js",
+    "static/media/slider-img.jpg": "/MicoHospital/static/media/slider-img.d6e916a442e6d6ced775.jpg",
+    "static/media/about-img.jpg": "/MicoHospital/static/media/about-img.2fbb4970270bbc3d97ce.jpg",
+    "static/media/team3.jpg": "/MicoHospital/static/media/team3.6c82ddffae564c18ab5b.jpg",
+    "static/media/team2.jpg": "/MicoHospital/static/media/team2.f9918610786750714e97.jpg",
+    "static/media/contact-img.jpg": "/MicoHospital/static/media/contact-img.980e5c20d2677ef79603.jpg",
+    "static/media/team1.jpg": "/MicoHospital/static/media/team1.23e6914f9c24116cdc41.jpg",
+    "static/media/revicons.eot": "/MicoHospital/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/MicoHospital/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/MicoHospital/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/MicoHospital/index.html",
+    "main.406f71d0.css.map": "/MicoHospital/static/css/main.406f71d0.css.map",
+    "main.1fa1be9b.js.map": "/MicoHospital/static/js/main.1fa1be9b.js.map",
+    "787.9d249d42.chunk.js.map": "/MicoHospital/static/js/787.9d249d42.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.406f71d0.css",
+    "static/js/main.1fa1be9b.js"
+  ]
+}
