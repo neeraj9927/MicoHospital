@@ -1,0 +1,131 @@
+/* =============================Start Header Nav styleing===================================== */
+header{
+    width: 100%;
+    background: #ffffff;
+}
+nav{
+    width: 100%;
+    height: 105px;
+    background-color: #00C6A9;
+}
+.navmenucolor{
+    background-color: #00C6A9;
+}
+.right{
+    text-align: right;
+}
+
+@media (max-width:768px) {
+    nav{
+        width: 100%;
+        height: 105px;
+        position: fixed;
+        z-index: 999;
+    }
+    .right{
+        text-align: center;
+    }
+    .center{
+        text-align: center;
+    }
+}
+@media (max-width:1024px) {
+    nav{
+        width: 100%;
+        position: fixed;
+        z-index: 999;
+    }
+}
+
+/* =============================End Header Nav styleing===================================== */
+
+/* =============================start The BackToTopBtn styleing===================================== */
+.back-to-top{
+    width: 50px;
+    height: 50px;
+    background-color: #00C6A9;
+    border: none;
+    outline: none;
+    border-radius: 50%;
+    font-weight: 900;
+    font-size: 25px;
+    animation: backtoTop infinite 2s;
+    margin-top: 50px;
+    position: fixed;
+    right: 10px;
+    bottom: 50px;
+    z-index: 999;
+}
+@keyframes backtoTop {
+    0%{
+        transform: scale(1);
+    }
+    50%{
+        transform: scale(0.8);
+    }
+    100%{
+        transform: scale(1);
+    }
+}
+/* =============================End The BackToTopBtn styleing===================================== */
+
+/* =============================Start slider styleing===================================== */
+.play_btn{
+    width: 50px;
+    height: 50px;
+    border: none;
+    outline: none;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+    background-color: #00C6A9;
+    color: #ffffff; 
+    animation: btn infinite 2s;   
+}
+
+@keyframes btn {
+    0% {
+        border: 1px solid rgba(255, 234, 234, 0.973);
+    }
+    100% {
+        border: 5px solid rgba(61, 60, 60, 0.586);
+    }
+}
+/* =============================End Slider styleing===================================== */
+
+/* =============================Start book_appoinment styleing===================================== */
+.shadows{
+    box-shadow: 2px 1px 12px 5px rgba(106, 105, 105, 0.232);
+}
+/* =============================End book_appoinment styleing===================================== */
+
+/* =============================start Abouts styleing===================================== */
+.height{
+    height: 400px;
+}
+.line{
+    line-height: 30px;
+}
+@media (max-width:768px) {
+    .height{
+        height: 350px;
+    }
+    .line{
+        line-height: 20px;
+    }
+}
+/* =============================End Abouts styleing===================================== */
+
+/* =============================start Hospital_tretment styleing===================================== */
+.btncolor{
+    border: none;
+    outline: none;
+    background: none;
+    font-weight:500;
+    color: #00C6A9;
+}
+/* =============================End Hospital_tretment styleing===================================== */
+
+
